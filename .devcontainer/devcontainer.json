@@ -23,7 +23,10 @@
 		"extensions": [
 		  "ms-python.python",
 		  "ms-python.vscode-pylance",
-		  "GitHub.copilot-chat"
+		  "GitHub.copilot",
+		  "GitHub.copilot-chat",
+		  "bierner.markdown-preview-github-styles",
+		  "GitHub.vscode-github-actions"
 		]
 	  }
 	},
