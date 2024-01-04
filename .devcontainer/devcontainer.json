@@ -23,6 +23,7 @@
 		"extensions": [
 		  "ms-python.python",
 		  "ms-python.vscode-pylance",
+		  "github.vscode-pull-request-github",
 		  "GitHub.copilot",
 		  "GitHub.copilot-chat",
 		  "bierner.markdown-preview-github-styles",
